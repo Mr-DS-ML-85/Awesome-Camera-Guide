@@ -1,3 +1,2 @@
 # Awesome-Camera-Guide
-![[Camera Guide 1.png]]
-
+![Guide](https://github.com/Mr-DS-ML-85/Awesome-Camera-Guide/blob/main/Camera%20Guide.png)
