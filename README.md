@@ -1,2 +1,3 @@
 # Awesome-Camera-Guide
-Camera Choice for Vlogging and Photography
+![[Camera Guide 1.png]]
+
