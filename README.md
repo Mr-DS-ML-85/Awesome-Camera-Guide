@@ -1,2 +1,2 @@
 # Awesome-Camera-Guide
-![Guide](https://github.com/Mr-DS-ML-85/Awesome-Camera-Guide/blob/main/Camera%20Guide.png)
+<a href="https://github.com/Mr-DS-ML-85/Awesome-Camera-Guide/blob/main/Camera Guide.png"><img src="Camera Guide.png" alt="Guide"></a>
